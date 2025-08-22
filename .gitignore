@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+.venv/
+ENV/
+venv/
+.idea/
+.vscode/
+*.log
+
+# Project outputs
+*.png
+steps/
