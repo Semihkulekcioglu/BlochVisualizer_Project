@@ -57,9 +57,7 @@ opsiyonel argümanlar:
 ```
 
 ## Çıktı
-- Son durum: tek Bloch küresi üzerinde bir vektör
-- İz modu: aynı kürede birden fazla vektör ve noktalar
-- Adım görselleri: `step_00.png` (|0⟩) … `step_NN.png`
+<img width="640" height="640" alt="Output" src="https://github.com/user-attachments/assets/fa2174ba-2fff-480b-be38-2c17ba943d91" />
 
 ## Notlar
 - Kapsam: tek kübit; ölçüm, gürültü ve çoklu kübit kapsam dışıdır.
