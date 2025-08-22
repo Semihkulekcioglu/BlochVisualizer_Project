@@ -57,9 +57,7 @@ optional arguments:
 ```
 
 ## Output
-- Final state: a single Bloch sphere with one vector
-- Trajectory mode: the same sphere with multiple vectors and points
-- Step exports: `step_00.png` (|0⟩) … `step_NN.png`
+<img width="640" height="640" alt="Ekran Görüntüsü (753)" src="https://github.com/user-attachments/assets/2e41d2f5-4124-4c89-a252-2b7c3a63f57f" />
 
 ## Notes
 - Scope: single-qubit states; measurement, noise, and multi-qubit are out of scope.
