@@ -11,7 +11,3 @@ venv/
 .idea/
 .vscode/
 *.log
-
-# Project outputs
-*.png
-steps/
